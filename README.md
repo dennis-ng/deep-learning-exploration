@@ -1,5 +1,5 @@
 # deep-learning-exploration
-The notebooks in this repository are created while exploring certain concepts.  
+The notebooks in this repository are created while exploring certain concepts. If you have difficulty viewing the notebook files on github, you can paste the link of the file into https://nbviewer.jupyter.org/ to view them.  
 ## [mnist fashion.ipynb](./mnist%20fashion.ipynb)
 This is just an implementation following tensorflow's tutorial
 ## [Tensorboard.ipynb](./Tensorboard.ipynb)
